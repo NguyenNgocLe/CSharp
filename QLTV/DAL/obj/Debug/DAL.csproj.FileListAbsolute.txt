@@ -1,0 +1,23 @@
+D:\Windows Form\QLTV\DAL\bin\Debug\DAL.dll
+D:\Windows Form\QLTV\DAL\bin\Debug\DAL.pdb
+D:\Windows Form\QLTV\DAL\bin\Debug\BEL.dll
+D:\Windows Form\QLTV\DAL\bin\Debug\BEL.pdb
+D:\Windows Form\QLTV\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Windows Form\QLTV\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Windows Form\QLTV\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Windows Form\QLTV\DAL\obj\Debug\DAL.dll
+D:\Windows Form\QLTV\DAL\obj\Debug\DAL.pdb
+D:\QLTV\DAL\bin\Debug\DAL.dll
+D:\QLTV\DAL\bin\Debug\DAL.pdb
+D:\QLTV\DAL\bin\Debug\BEL.dll
+D:\QLTV\DAL\bin\Debug\BEL.pdb
+D:\QLTV\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\QLTV\DAL\obj\Debug\DAL.dll
+D:\QLTV\DAL\obj\Debug\DAL.pdb
+F:\QLTV\DAL\bin\Debug\DAL.dll
+F:\QLTV\DAL\bin\Debug\DAL.pdb
+F:\QLTV\DAL\bin\Debug\BEL.dll
+F:\QLTV\DAL\bin\Debug\BEL.pdb
+F:\QLTV\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\QLTV\DAL\obj\Debug\DAL.dll
+F:\QLTV\DAL\obj\Debug\DAL.pdb
