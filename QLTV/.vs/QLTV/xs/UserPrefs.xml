@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{B725A3D4-40AF-4DF0-B929-BAD113850076}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="QLTV/NhaXuatBan/frmThemNhaXuatBan.cs">
+    <Files>
+      <File FileName="QLTV/TacGia/frmThemTacGia.cs" Line="44" Column="15" />
+      <File FileName="QLTV/Sach/frmSuaSach.cs" Line="1" Column="1" />
+      <File FileName="QLTV/Sach/frmThemSach.cs" Line="1" Column="1" />
+      <File FileName="QLTV/Sach/frmXoaSach.cs" Line="1" Column="1" />
+      <File FileName="QLTV/NhaXuatBan/frmThemNhaXuatBan.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="QLTV" expanded="True">
+            <Node name="GUI" expanded="True">
+              <Node name="NhaXuatBan" expanded="True">
+                <Node name="frmThemNhaXuatBan.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="QuanLyKho" expanded="True" />
+              <Node name="Sach" expanded="True" />
+              <Node name="TacGia" expanded="True" />
+              <Node name="ThuThu" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.GUI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
