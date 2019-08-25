@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{8C24B660-DFE4-4879-9F00-7DDD12D31DDF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="visualCSh/Program.cs">
+    <Files>
+      <File FileName="visualCSh/Program.cs" Line="7" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="visualCSh" expanded="True">
+            <Node name="visualCSh" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.visualCSh PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,6 @@
+/Users/le/Documents/Data/CSharp/visualCSh/visualCSh/bin/Debug/visualCSh.exe
+/Users/le/Documents/Data/CSharp/visualCSh/visualCSh/bin/Debug/visualCSh.pdb
+/Users/le/Documents/Data/CSharp/visualCSh/visualCSh/obj/x86/Debug/visualCSh.csprojAssemblyReference.cache
+/Users/le/Documents/Data/CSharp/visualCSh/visualCSh/obj/x86/Debug/visualCSh.csproj.CoreCompileInputs.cache
+/Users/le/Documents/Data/CSharp/visualCSh/visualCSh/obj/x86/Debug/visualCSh.exe
+/Users/le/Documents/Data/CSharp/visualCSh/visualCSh/obj/x86/Debug/visualCSh.pdb

@@ -1,25 +1,50 @@
-D:\Windows Form\QLTV\QLTV\obj\Debug\GUI.csprojAssemblyReference.cache
-D:\Windows Form\QLTV\QLTV\obj\Debug\QLTV.DangNhap.frmDangNhap.resources
-D:\Windows Form\QLTV\QLTV\obj\Debug\QLTV.DocGia.frmThemDocGia.resources
-D:\Windows Form\QLTV\QLTV\obj\Debug\QLTV.LoaiSach.frmThemLoaiSach.resources
-D:\Windows Form\QLTV\QLTV\obj\Debug\QLTV.NgonNgu.frmThemNgonNgu.resources
-D:\Windows Form\QLTV\QLTV\obj\Debug\QLTV.NhaXuatBan.frmThemNhaXuatBan.resources
-D:\Windows Form\QLTV\QLTV\obj\Debug\QLTV.Properties.Resources.resources
-D:\Windows Form\QLTV\QLTV\obj\Debug\QLTV.TacGia.frmThemTacGia.resources
-D:\Windows Form\QLTV\QLTV\obj\Debug\QLTV.ThuThu.frmThuThu.resources
-D:\Windows Form\QLTV\QLTV\obj\Debug\GUI.csproj.GenerateResource.cache
-D:\Windows Form\QLTV\QLTV\obj\Debug\GUI.csproj.CoreCompileInputs.cache
-D:\Windows Form\QLTV\QLTV\bin\Debug\QLTV.exe.config
-D:\Windows Form\QLTV\QLTV\bin\Debug\QLTV.exe
-D:\Windows Form\QLTV\QLTV\bin\Debug\QLTV.pdb
-D:\Windows Form\QLTV\QLTV\bin\Debug\BAL.dll
-D:\Windows Form\QLTV\QLTV\bin\Debug\BEL.dll
-D:\Windows Form\QLTV\QLTV\bin\Debug\DAL.dll
-D:\Windows Form\QLTV\QLTV\bin\Debug\BAL.pdb
-D:\Windows Form\QLTV\QLTV\bin\Debug\BEL.pdb
-D:\Windows Form\QLTV\QLTV\bin\Debug\DAL.pdb
-D:\Windows Form\QLTV\QLTV\obj\Debug\GUI.csproj.CopyComplete
-D:\Windows Form\QLTV\QLTV\obj\Debug\QLTV.exe
-D:\Windows Form\QLTV\QLTV\obj\Debug\QLTV.pdb
-D:\Windows Form\QLTV\QLTV\obj\Debug\QLTV.DocGia.frmDocGia.resources
-D:\Windows Form\QLTV\QLTV\obj\Debug\QLTV.QuanLyKho.frmQuanLyKho.resources
+D:/Windows Form/QLTV/QLTV/obj/Debug/GUI.csprojAssemblyReference.cache
+D:/Windows Form/QLTV/QLTV/obj/Debug/QLTV.DangNhap.frmDangNhap.resources
+D:/Windows Form/QLTV/QLTV/obj/Debug/QLTV.DocGia.frmThemDocGia.resources
+D:/Windows Form/QLTV/QLTV/obj/Debug/QLTV.LoaiSach.frmThemLoaiSach.resources
+D:/Windows Form/QLTV/QLTV/obj/Debug/QLTV.NgonNgu.frmThemNgonNgu.resources
+D:/Windows Form/QLTV/QLTV/obj/Debug/QLTV.NhaXuatBan.frmThemNhaXuatBan.resources
+D:/Windows Form/QLTV/QLTV/obj/Debug/QLTV.Properties.Resources.resources
+D:/Windows Form/QLTV/QLTV/obj/Debug/QLTV.TacGia.frmThemTacGia.resources
+D:/Windows Form/QLTV/QLTV/obj/Debug/QLTV.ThuThu.frmThuThu.resources
+D:/Windows Form/QLTV/QLTV/obj/Debug/GUI.csproj.GenerateResource.cache
+D:/Windows Form/QLTV/QLTV/obj/Debug/GUI.csproj.CoreCompileInputs.cache
+D:/Windows Form/QLTV/QLTV/bin/Debug/QLTV.exe.config
+D:/Windows Form/QLTV/QLTV/bin/Debug/QLTV.exe
+D:/Windows Form/QLTV/QLTV/bin/Debug/QLTV.pdb
+D:/Windows Form/QLTV/QLTV/bin/Debug/BAL.dll
+D:/Windows Form/QLTV/QLTV/bin/Debug/BEL.dll
+D:/Windows Form/QLTV/QLTV/bin/Debug/DAL.dll
+D:/Windows Form/QLTV/QLTV/bin/Debug/BAL.pdb
+D:/Windows Form/QLTV/QLTV/bin/Debug/BEL.pdb
+D:/Windows Form/QLTV/QLTV/bin/Debug/DAL.pdb
+D:/Windows Form/QLTV/QLTV/obj/Debug/GUI.csproj.CopyComplete
+D:/Windows Form/QLTV/QLTV/obj/Debug/QLTV.exe
+D:/Windows Form/QLTV/QLTV/obj/Debug/QLTV.pdb
+D:/Windows Form/QLTV/QLTV/obj/Debug/QLTV.DocGia.frmDocGia.resources
+D:/Windows Form/QLTV/QLTV/obj/Debug/QLTV.QuanLyKho.frmQuanLyKho.resources
+/Users/le/Documents/Data/CSharp/QLTV/QLTV/bin/Debug/QLTV.exe.config
+/Users/le/Documents/Data/CSharp/QLTV/QLTV/bin/Debug/QLTV.exe
+/Users/le/Documents/Data/CSharp/QLTV/QLTV/bin/Debug/QLTV.pdb
+/Users/le/Documents/Data/CSharp/QLTV/QLTV/bin/Debug/BAL.dll
+/Users/le/Documents/Data/CSharp/QLTV/QLTV/bin/Debug/BEL.dll
+/Users/le/Documents/Data/CSharp/QLTV/QLTV/bin/Debug/DAL.dll
+/Users/le/Documents/Data/CSharp/QLTV/QLTV/bin/Debug/BAL.pdb
+/Users/le/Documents/Data/CSharp/QLTV/QLTV/bin/Debug/BEL.pdb
+/Users/le/Documents/Data/CSharp/QLTV/QLTV/bin/Debug/DAL.pdb
+/Users/le/Documents/Data/CSharp/QLTV/QLTV/obj/Debug/GUI.csprojAssemblyReference.cache
+/Users/le/Documents/Data/CSharp/QLTV/QLTV/obj/Debug/QLTV.DangNhap.frmDangNhap.resources
+/Users/le/Documents/Data/CSharp/QLTV/QLTV/obj/Debug/QLTV.DocGia.frmDocGia.resources
+/Users/le/Documents/Data/CSharp/QLTV/QLTV/obj/Debug/QLTV.DocGia.frmThemDocGia.resources
+/Users/le/Documents/Data/CSharp/QLTV/QLTV/obj/Debug/QLTV.LoaiSach.frmThemLoaiSach.resources
+/Users/le/Documents/Data/CSharp/QLTV/QLTV/obj/Debug/QLTV.NgonNgu.frmThemNgonNgu.resources
+/Users/le/Documents/Data/CSharp/QLTV/QLTV/obj/Debug/QLTV.NhaXuatBan.frmThemNhaXuatBan.resources
+/Users/le/Documents/Data/CSharp/QLTV/QLTV/obj/Debug/QLTV.Properties.Resources.resources
+/Users/le/Documents/Data/CSharp/QLTV/QLTV/obj/Debug/QLTV.QuanLyKho.frmQuanLyKho.resources
+/Users/le/Documents/Data/CSharp/QLTV/QLTV/obj/Debug/QLTV.TacGia.frmThemTacGia.resources
+/Users/le/Documents/Data/CSharp/QLTV/QLTV/obj/Debug/QLTV.ThuThu.frmThuThu.resources
+/Users/le/Documents/Data/CSharp/QLTV/QLTV/obj/Debug/GUI.csproj.GenerateResource.cache
+/Users/le/Documents/Data/CSharp/QLTV/QLTV/obj/Debug/GUI.csproj.CoreCompileInputs.cache
+/Users/le/Documents/Data/CSharp/QLTV/QLTV/obj/Debug/GUI.csproj.CopyComplete
+/Users/le/Documents/Data/CSharp/QLTV/QLTV/obj/Debug/QLTV.exe
+/Users/le/Documents/Data/CSharp/QLTV/QLTV/obj/Debug/QLTV.pdb

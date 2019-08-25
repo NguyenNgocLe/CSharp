@@ -1,14 +1,20 @@
-D:\Windows Form\QLTV\BEL\bin\Debug\BEL.dll
-D:\Windows Form\QLTV\BEL\bin\Debug\BEL.pdb
-D:\Windows Form\QLTV\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
-D:\Windows Form\QLTV\BEL\obj\Debug\BEL.dll
-D:\Windows Form\QLTV\BEL\obj\Debug\BEL.pdb
-D:\Windows Form\QLTV\BEL\obj\Debug\BEL.csprojAssemblyReference.cache
-D:\QLTV\BEL\bin\Debug\BEL.dll
-D:\QLTV\BEL\bin\Debug\BEL.pdb
-D:\QLTV\BEL\obj\Debug\BEL.dll
-D:\QLTV\BEL\obj\Debug\BEL.pdb
-F:\QLTV\BEL\bin\Debug\BEL.dll
-F:\QLTV\BEL\bin\Debug\BEL.pdb
-F:\QLTV\BEL\obj\Debug\BEL.dll
-F:\QLTV\BEL\obj\Debug\BEL.pdb
+D:/Windows Form/QLTV/BEL/bin/Debug/BEL.dll
+D:/Windows Form/QLTV/BEL/bin/Debug/BEL.pdb
+D:/Windows Form/QLTV/BEL/obj/Debug/BEL.csproj.CoreCompileInputs.cache
+D:/Windows Form/QLTV/BEL/obj/Debug/BEL.dll
+D:/Windows Form/QLTV/BEL/obj/Debug/BEL.pdb
+D:/Windows Form/QLTV/BEL/obj/Debug/BEL.csprojAssemblyReference.cache
+D:/QLTV/BEL/bin/Debug/BEL.dll
+D:/QLTV/BEL/bin/Debug/BEL.pdb
+D:/QLTV/BEL/obj/Debug/BEL.dll
+D:/QLTV/BEL/obj/Debug/BEL.pdb
+F:/QLTV/BEL/bin/Debug/BEL.dll
+F:/QLTV/BEL/bin/Debug/BEL.pdb
+F:/QLTV/BEL/obj/Debug/BEL.dll
+F:/QLTV/BEL/obj/Debug/BEL.pdb
+/Users/le/Documents/Data/CSharp/QLTV/BEL/bin/Debug/BEL.dll
+/Users/le/Documents/Data/CSharp/QLTV/BEL/bin/Debug/BEL.pdb
+/Users/le/Documents/Data/CSharp/QLTV/BEL/obj/Debug/BEL.csprojAssemblyReference.cache
+/Users/le/Documents/Data/CSharp/QLTV/BEL/obj/Debug/BEL.csproj.CoreCompileInputs.cache
+/Users/le/Documents/Data/CSharp/QLTV/BEL/obj/Debug/BEL.dll
+/Users/le/Documents/Data/CSharp/QLTV/BEL/obj/Debug/BEL.pdb
